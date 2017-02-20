@@ -3,3 +3,8 @@ https://msdn.microsoft.com/es-es/library/452fz12a(v=vs.90).aspx
 
 como se genera el hash de identity .net
 http://stackoverflow.com/questions/20621950/asp-net-identity-default-password-hasher-how-does-it-work-and-is-it-secure
+
+
+
+
+--Segunda prueba modififcado. agregé esta linea
