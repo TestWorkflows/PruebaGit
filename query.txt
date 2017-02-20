@@ -1,0 +1,23 @@
+﻿SELECT * FROM UE.ProgramaAnualAdq
+WHERE Fk_IdUnidadEjecutora__UE=385
+
+
+SELECT * FROM UE.UnidadEjecutora
+WHERE Pk_IdUnidadEjecutora=385
+
+
+select * from DB_SIMORSICA_AC.dbo.AspNetUsers
+where UserName= 'Admin1'
+OR UserName= 'AUR01001'
+or UserName='DANIEL.GAMA' --Coordinador Administrativo
+or UserName= 'SANOVINA' --	Coordinador de Proyecto
+or UserName= 'GUTIERREZ.CESAR'--gerente
+or UserName= 'est01001'	
+--or UserName like 'reg01001'
+or UserName='ALFONSODEAB'--	Profesional Responsable de Informática
+or UserName='aie0101001'
+order by FK_IdEstado__SIS
+
+
+
+Cambio de Este Branch prueba()
